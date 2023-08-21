@@ -1,0 +1,9 @@
+* sheet-clj
+
+Data grid widget for common-lisp-jupyter
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/yitzchak/sheet-clj.git |
+| commit  | 8f56622                                       |
+| systems | sheet-clj                                     |
+|---------+-----------------------------------------------|
